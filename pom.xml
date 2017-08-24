@@ -119,9 +119,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:ssh://github.com/jenkinsci/semantic-versioning-plugin.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com/jenkinsci/semantic-versioning-plugin.git</developerConnection>
-		<url>https://github.com/jenkinsci/semantic-versioning-plugin</url>
+		<connection>scm:git:ssh://github.com:MattiasSeeman/semantic-versioning-plugin.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com:MattiasSeeman/semantic-versioning-plugin.git</developerConnection>
+		<url>https://github.com/MattiasSeeman/semantic-versioning-plugin.git</url>
 	  	<tag>HEAD</tag>
  	 </scm>
 
